@@ -1,0 +1,28 @@
+{
+  "name": "geojson-allrings",
+  "version": "0.0.0",
+  "description": "Return all rings of MultiPolygon or Polygon type of geojson.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geosquare/geojson-allrings.git"
+  },
+  "keywords": [
+    "geojson",
+    "rings",
+    "polygon",
+    "multipolygon"
+  ],
+  "author": "Gagan Bansal <gaganbansal123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geosquare/geojson-allrings/issues"
+  },
+  "homepage": "https://github.com/geosquare/geojson-allrings",
+  "devDependencies": {
+    "chai": "^1.9.1"
+  }
+}
